@@ -23,3 +23,39 @@ http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745092&exten
 
 #EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",CT SPORT
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1, TVRI PILDUN 1
+https://tvri.cob.web.id/hls2/index.m3u8
+
+#EXTINF:-1, TVRI SPORT
+https://pildun.cob.web.id/hls2/index.m3u8
+
+#EXTINF:-1, CAZE TV 1
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1, SPORT TV 1
+http://6395online.com:8080/live/Iptv6988/0905692638/391463.m3u8
+
+#EXTINF:-1, SPORT TV 2
+http://6395online.com:8080/live/Iptv6988/0905692638/391464.m3u8
+
+#EXTINF:-1, SPORT TV 3
+http://6395online.com:8080/live/Iptv6988/0905692638/391465.m3u8
+
+#EXTINF:-1, SPORT TV 4
+http://6395online.com:8080/live/Iptv6988/0905692638/391466.m3u8
+
+#EXTINF:-1, SPORT TV 5
+http://6395online.com:8080/live/Iptv6988/0905692638/391467.m3u8
+
+#EXTINF:-1, DAZN 1
+http://6395online.com:8080/live/Iptv6988/0905692638/391471.m3u8
+
+#EXTINF:-1, DAZN 2
+http://6395online.com:8080/live/Iptv6988/0905692638/391472.m3u8
+
+#EXTINF:-1, DAZN 3
+http://6395online.com:8080/live/Iptv6988/0905692638/391473.m3u8
+
+#EXTINF:-1, DAZN 4
+http://6395online.com:8080/live/Iptv6988/0905692638/391474.m3u8
